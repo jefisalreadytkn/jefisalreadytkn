@@ -1,16 +1,26 @@
-## hello, i am a "human being", as they say.
+# sharkyydev's `README.md`
 
-!--
-**jefisalreadytkn/jefisalreadytkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`hello, i am a "human being".`
+> copy this and paste it to your friends hehe 😆 --> `‮tralalero scamer will get you hahaha` 
 
-copy this `‮tralalero`
+# ***sharkyydev!***
+> a game developer that mostly uses PenguinMod.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# current projects
+> Respawn! (a really cool roblox inspired platform with real moderation.) <br>
+> CrazyParking (a dynamic driving game about parking!) <br>
+> Traverser (maybe the craziest and best looking space project ive made.) <br>
+> Zero-Gadgets (a website with a variety of gadgets you can use for coding in penguinmod!) <br>
+
+# languages i know (programming languages)
+> penguinmod (kinda like scratch.mit.edu but wayy better)<br>
+> lua (in roblox studio)<br>
+> html (making websites)<br>
+> css (styling websites)
+
+# coding studios/spaces
+> [Github](https://github.com) <br>
+> [Roblox Studio](https://create.roblox.com) <br>
+> [Visual Studio Code](https://code.visualstudio.com) <br>
+> [Neocities](https://neocities.org) <br>
+> [PenguinMod Studio](https://studio.penguinmod.com/editor.html) <br>
